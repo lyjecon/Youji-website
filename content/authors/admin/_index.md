@@ -19,7 +19,7 @@ bio: My research interests include social security, population ageing, and behav
 # Interests to show in About widget
 interests:
   - Social Security
-  - Population
+  - Population Ageing
   - Behavioral Economics
 
 # Education to show in About widget
