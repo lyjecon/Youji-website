@@ -41,6 +41,10 @@ Social:
   icon_pack: fas
   link: mailto:lyjecon@nankai.edu.cn
 
+- icon: archive
+  icon_pack: ai
+  link: https://finance.nankai.edu.cn/2022/0328/c19775a439892/page.htm
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
