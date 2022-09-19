@@ -41,9 +41,9 @@ Social:
   icon_pack: fas
   link: mailto:lyjecon@nankai.edu.cn
 
-- icon: archive
+- icon: ssrn
   icon_pack: ai
-  link: https://finance.nankai.edu.cn/2022/0328/c19775a439892/page.htm
+  link: https://hq.ssrn.com/submissions/MyPapers.cfm?partid=5470587
 
 - icon: google-scholar
   icon_pack: ai
