@@ -63,4 +63,4 @@ I am a Junior Lecturer of Risk Management and Insurance at the School of Finance
 
 我是南开大学金融学院风险管理与保险学系的一名讲师，我的研究兴趣包括社会保险与保障、人口老龄化和行为经济学。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
