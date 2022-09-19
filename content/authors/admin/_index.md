@@ -45,6 +45,11 @@ Social:
   icon_pack: ai
   link: https://finance.nankai.edu.cn/2022/0328/c19775a439892/page.htm
 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=fNq6Q1MAAAAJ&gmla=AJsN-F5_Cz4BM8pAlA61lOk6y7CDFAbjNz1JCBijAN-igFBYNYcH5Oh6t-tF2alJGHE8i3xjUIlFAi2UWWXRb_BoGz3lXBn094FZOAqoTSpFbADdslHU7oRZF1KUPQ5UAssgN7qaG6ZA
+
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
@@ -53,7 +58,7 @@ Social:
 #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'lyjecon@nankai.edu.cn'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
