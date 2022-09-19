@@ -28,7 +28,7 @@ education:
     - course: PhD in Risk Management and Insurance
       institution: Peking University
       year: 2021
-    - course: BSc in Economics
+    - course: BA in Economics
       institution: Nankai University
       year: 2016
 
